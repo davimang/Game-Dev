@@ -1,1 +1,1 @@
-
+This directory contains all of the assignments apart of the online Harvard edX course, "GD50 - Introduction to Game Development". The main tasks were to modify different games by adding in unique features, or implementing parts of the game that were not yet completed (such as new items, scoring system, etc).
