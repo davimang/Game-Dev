@@ -1,3 +1,6 @@
+-- Author: David Moroniti
+
+
 PlayerPotWalkState = Class{__includes = BaseState}
 
 function PlayerPotWalkState:init(player,dungeon)
