@@ -1,6 +1,6 @@
 --[[
     Pipe Class
-    Author: Colton Ogden
+    Author: Colton Ogden, David Moroniti
     cogden@cs50.harvard.edu
 
     The Pipe class represents the pipes that randomly  in our game, which aspawnct as our primary obstacles.
