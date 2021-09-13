@@ -2,7 +2,7 @@
     GD50
     Match-3 Remake
 
-    Author: Colton Ogden
+    Author: Colton Ogden, David Moroniti
     cogden@cs50.harvard.edu
 
     - GameOverState Class-
