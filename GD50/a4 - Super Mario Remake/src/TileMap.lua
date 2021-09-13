@@ -2,6 +2,8 @@
     GD50
     Super Mario Bros. Remake
 
+    Author: David Moroniti
+
     -- TileMap Class --
 ]]
 
