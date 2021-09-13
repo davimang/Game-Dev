@@ -4,7 +4,7 @@
 
     -- LevelMaker Class --
 
-    Author: Colton Ogden
+    Author: Colton Ogden, David Moroniti
     cogden@cs50.harvard.edu
 
     Creates randomized levels for our Breakout game. Returns a table of
