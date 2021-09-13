@@ -1,3 +1,5 @@
+-- Author: David Moroniti
+
 Projectile = Class{__includes = BaseState}
 
 function Projectile:init(player,dungeon)
