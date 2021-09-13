@@ -1,3 +1,11 @@
+--[[
+
+Author: David Moroniti
+
+Responsible for the various powerups that spawn during the game.
+
+]]
+
 Powerup = Class{}
 
 RANDOM_TIME = math.random(15)
