@@ -1,3 +1,5 @@
+-- Author: David Moroniti
+
 PlayerPotIdleState = Class{__includes = BaseState}
 
 function PlayerPotIdleState:init(player,dungeon)
