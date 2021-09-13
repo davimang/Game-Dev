@@ -1,3 +1,6 @@
+-- Author: David Moroniti
+
+
 PlayerThrowState = Class{__includes = BaseState}
 
 function PlayerThrowState:init(player,dungeon,room)
