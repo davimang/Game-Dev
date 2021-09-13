@@ -1,3 +1,5 @@
+-- Author: David Moroniti
+
 Pot = Class{}
 
 function Pot:init(Room)
