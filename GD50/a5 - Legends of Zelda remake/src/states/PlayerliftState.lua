@@ -1,3 +1,6 @@
+-- Author: David Moroniti
+
+
 PlayerLiftState = class{__includes = BaseState}
 
 function PlayerLiftState:init(player,dungeon)
