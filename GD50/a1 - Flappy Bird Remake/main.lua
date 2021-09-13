@@ -2,7 +2,7 @@
     GD50 2018
     Flappy Bird Remake
 
-    Author: Colton Ogden
+    Authors: Colton Ogden, David Moroniti
     cogden@cs50.harvard.edu
 
     A mobile game by Dong Nguyen that went viral in 2013, utilizing a very simple 
