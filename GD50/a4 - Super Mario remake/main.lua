@@ -2,7 +2,7 @@
     GD50
     Super Mario Bros. Remake
 
-    Author: Colton Ogden
+    Author: Colton Ogden, David Moroniti
     cogden@cs50.harvard.edu
     
     A classic platformer in the style of Super Mario Bros., using a free
