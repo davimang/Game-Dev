@@ -4,7 +4,7 @@
 
     -- PlayState Class --
 
-    Author: Colton Ogden
+    Author: Colton Ogden, David Moroniti
     cogden@cs50.harvard.edu
 
     State in which we can actually play, moving around a grid cursor that
