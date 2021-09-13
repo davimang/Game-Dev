@@ -2,6 +2,8 @@
 
 Author: David Moroniti
 
+-- Powerup class --
+
 Responsible for the various powerups that spawn during the game.
 
 ]]
