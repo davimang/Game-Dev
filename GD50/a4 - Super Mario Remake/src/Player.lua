@@ -4,7 +4,7 @@
 
     -- Player Class --
 
-    Author: Colton Ogden
+    Author: Colton Ogden, David Moroniti
     cogden@cs50.harvard.edu
 ]]
 
