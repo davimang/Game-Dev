@@ -2,7 +2,7 @@
     GD50
     Breakout Remake
 
-    Author: Colton Ogden
+    Author: Colton Ogden, David Moroniti
     cogden@cs50.harvard.edu
 
     Originally developed by Atari in 1976. An effective evolution of
