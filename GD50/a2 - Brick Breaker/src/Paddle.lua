@@ -4,7 +4,7 @@
 
     -- Paddle Class --
 
-    Author: Colton Ogden
+    Author: Colton Ogden, David Moroniti
     cogden@cs50.harvard.edu
 
     Represents a paddle that can move left and right. Used in the main
