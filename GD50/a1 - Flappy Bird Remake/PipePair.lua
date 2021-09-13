@@ -1,7 +1,7 @@
 --[[
     PipePair Class
 
-   
+   Author: David Moroniti
 
     Used to represent a pair of pipes that stick together as they scroll, providing an opening
     for the player to jump through in order to score a point.
